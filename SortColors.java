@@ -1,5 +1,5 @@
 class SortColors{
-    public void sortColors(int[] nums) {
+    public void sortColorsofFlag(int[] nums) {
         
         int start =0;
         int end =nums.length -1;
